@@ -6,8 +6,6 @@
 > 
 > Remote-SSH를 사용하기 위해 (try)Cloudflared 다운.
 > 
-> 1로 인해 .ssh 파일이 생김.
-> 
 > Vscode에서 없는 Pipe 사용 오류.
 > 
 > ##### 1월 19일
@@ -23,3 +21,7 @@
 > ##### 1월 21일
 > 
 > Vscode 에서 Jupyter Extension 다운.
+> 
+> ##### 1월 23 ~ 24일
+> 
+> Vscode Remote-SSH 완벽히 사용 가능, 오류 사유: 운영체제 선택==Linux
