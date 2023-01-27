@@ -25,3 +25,7 @@
 > ##### 1월 23 ~ 24일
 > 
 > Vscode Remote-SSH 완벽히 사용 가능, 오류 사유: 운영체제 선택==Linux
+> 
+> ##### 1월 28일
+> 
+> Controll 파일을 Python-file에 저장, 기능:Path \를 /로 고치는 라이브러리
