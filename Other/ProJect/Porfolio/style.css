@@ -32,7 +32,7 @@
   }
 
   nav ul:hover {
-    text-decoration-line: underline;
+    text-decoration: underline;
   }
   
   nav ul li {
@@ -83,7 +83,13 @@
     height: auto;
     margin-bottom: 5px;
   }
-  
+
+  #gmail{
+    position: absolute;
+    left: 850px;
+    font-style: italic;
+  }
+
   /* 푸터 스타일 */
   footer {
     background-color: black; 
